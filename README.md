@@ -7,6 +7,8 @@
 
 ### 1 LocalSend
 
+![](pics/1.png)
+
 本地网络实现文件分享的方案，速度实测可达 8-10MB/s。校园网环境下可能需要手动输入 ip 进行匹配。
 
 [LocalSend Github Page](https://github.com/localsend/localsend?tab=readme-ov-file)
