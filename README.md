@@ -1,5 +1,9 @@
 # Github_Project_Sharing
 
+[Project Page](https://github.com/RichardHu6666/Github_Project_Sharing)
+
+觉得好不妨点一个Star, thanks a lot!🤩🤩🤩
+
 ## Menu
 [1 LocalSend 本地网络文件分享](https://richardhu6666.github.io/Github_Project_Sharing/#1-localsend-%E6%9C%AC%E5%9C%B0%E7%BD%91%E7%BB%9C%E6%96%87%E4%BB%B6%E5%88%86%E4%BA%AB)
 
